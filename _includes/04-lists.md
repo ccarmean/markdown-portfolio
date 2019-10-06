@@ -1,2 +1,2 @@
-(Guts)
-(Glory)
+- (Guts)
+- (Glory)
