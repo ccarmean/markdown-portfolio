@@ -1,1 +1,1 @@
-![blah blahh] (https://github.com/ccarmean)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
